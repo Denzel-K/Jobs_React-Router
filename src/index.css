@@ -120,7 +120,7 @@ form label span {
   color: var(--primary);
 }
 .careers > a:hover{
-  background-color: #262e46;
+  background-color: rgba(15, 15, 15, 0.2);
 }
 .careers p {
   margin: 0;
